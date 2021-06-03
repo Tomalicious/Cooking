@@ -1,0 +1,9 @@
+body{
+    background-image: url(assets/dvd-0400.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1,label{
+    color: white;
+}
